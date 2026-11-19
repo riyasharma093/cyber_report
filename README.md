@@ -38,3 +38,15 @@ This project is prepared for educational and research purposes to improve unders
 ## Disclaimer
 
 This repository is intended only for educational purposes. It does not contain instructions or tools for performing cyberattacks.
+
+
+## Working Principle of DDoS Attack
+
+The following diagram explains how excessive traffic can affect a website server.
+
+```mermaid
+flowchart TD
+    A[Multiple Traffic Sources] --> B[Website Server]
+    C[Legitimate Users] --> B
+    B --> D[Server Overload]
+    D --> E[Website Unavailable]
