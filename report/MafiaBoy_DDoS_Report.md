@@ -63,3 +63,22 @@ This incident teaches us that organisations must continuously improve their netw
 ## 8. References
 
 Research sources and references are maintained in the references.md file in this repository.
+
+## Abstract
+
+This project focuses on the MafiaBoy DDoS attack that occurred in February 2000. The incident affected several popular websites and became an important event in cybersecurity history.
+
+The main purpose of this study is to understand Distributed Denial of Service (DDoS) attacks, examine the impact of the MafiaBoy incident, and explore different methods used to protect websites and online services.
+
+## Methodology
+
+This project follows a research-based approach. Information has been collected from online articles, cybersecurity resources, and historical reports.
+
+The study is divided into the following steps:
+
+1. Understanding the basic concepts of cybersecurity.
+2. Learning about Distributed Denial of Service attacks.
+3. Researching the MafiaBoy incident.
+4. Studying the impact on affected websites.
+5. Exploring different DDoS prevention techniques.
+6. Summarising the findings and lessons learned.
