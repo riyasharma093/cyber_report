@@ -82,3 +82,45 @@ The study is divided into the following steps:
 4. Studying the impact on affected websites.
 5. Exploring different DDoS prevention techniques.
 6. Summarising the findings and lessons learned.
+
+## 8. Case Study Analysis
+
+The MafiaBoy incident took place in February 2000 and affected some of the most popular websites at that time.
+
+Yahoo was among the first major websites affected. In the following days, other websites, including Amazon, eBay, CNN, Buy.com and E*Trade, also experienced disruptions.
+
+The incident demonstrated that even large companies with millions of users could face serious problems due to DDoS attacks.
+
+Michael Calce, known by his online nickname MafiaBoy, was arrested in April 2000 in connection with the attacks. He later pleaded guilty to multiple charges.
+
+This case became an important example of the risks associated with internet security.
+
+## 9. Findings and Observations
+
+After studying the MafiaBoy incident, the following observations were made:
+
+1. DDoS attacks can make popular websites unavailable.
+2. Excessive network traffic can affect normal website operations.
+3. Large organisations are also vulnerable to cybersecurity threats.
+4. Network monitoring and security systems are important.
+5. Strong cybersecurity practices help reduce the risk of service disruption.
+
+## 10. Future Scope
+
+Cybersecurity is continuously developing as technology improves. In the future, organisations can focus on:
+
+- Using Artificial Intelligence to identify unusual network traffic.
+- Improving automated threat detection systems.
+- Developing stronger network security solutions.
+- Improving server capacity and traffic management.
+- Increasing cybersecurity awareness among users.
+
+## 11. Learning Outcomes
+
+Through this project, I learned about:
+
+- The basic concepts of cybersecurity.
+- The meaning and purpose of DDoS attacks.
+- A real-world cybersecurity incident from 2000.
+- The importance of network protection.
+- Different methods used to prevent cyberattacks.
